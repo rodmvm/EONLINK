@@ -1,0 +1,8 @@
+*.log
+node_modules/
+brief-render/
+__pycache__/
+.env
+.env.*
+!.env.example
+EONLINK-iconos-3d.zip

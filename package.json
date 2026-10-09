@@ -1,0 +1,10 @@
+{
+  "name": "eonlink-local",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node build-redesign.mjs",
+    "test": "node test-redesign.mjs"
+  }
+}
